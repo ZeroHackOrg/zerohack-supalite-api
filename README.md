@@ -176,18 +176,17 @@ For vulnerability reports, see [SECURITY.md](SECURITY.md).
 
 | Package | Binary | What It Does |
 |---|---|---|
-| [@zerohack/shared](../zerohack-shared) | — | Types, schemas, catalog |
-| [@zerohack/cli](../zerohack-cli) | `zh` | Unified CLI |
-| [@zerohack/pal](../zerohack-pal) | `zh-pal` | Local AI assistant |
-| [@zerohack/secret-scanner](../zerohack-secret-scanner) | `zh-secret` | Secret scanner |
-| [@zerohack/ssh-hardener](../zerohack-ssh-hardener) | `zh-ssh` | SSH auditor |
-| [@zerohack/recon-bot](../zerohack-recon-bot) | `zh-recon` | Recon automation |
-| [@zerohack/log-analyzer](../zerohack-log-analyzer) | `zh-log` | Log forensics |
-| [@zerohack/honeypot](../zerohack-honeypot) | `zh-honeypot` | Honeypot |
-| [@zerohack/osint-cli](../zerohack-osint-cli) | `zh-osint` | OSINT tools |
-| [@zerohack/ctf-lab](../zerohack-ctf-lab) | `zh-lab` | CTF lab runner |
-| [@zerohack/ctf-automation](../zerohack-ctf-automation) | `zh-ctf` | CTF solver |
-
+| [@zerohack/shared](https://github.com/ZeroHackOrg/zerohack-shared) | — | Types, schemas, catalog |
+| [@zerohack/cli](https://github.com/ZeroHackOrg/zerohack-cli) | `zh` | Unified CLI |
+| [@zerohack/pal](https://github.com/ZeroHackOrg/zerohack-pal) | `zh-pal` | Local AI assistant |
+| [@zerohack/honeypot](https://github.com/ZeroHackOrg/zerohack-honeypot) | `zh-honeypot` | Honeypot |
+| [@zerohack/osint-cli](https://github.com/ZeroHackOrg/zerohack-osint-cli) | `zh-osint` | OSINT tools |
+| [@zerohack/ssh-hardener](https://github.com/ZeroHackOrg/zerohack-ssh-hardener) | `zh-ssh` | SSH auditor |
+| [@zerohack/secret-scanner](https://github.com/ZeroHackOrg/zerohack-secret-scanner) | `zh-secret` | Secret scanner |
+| [@zerohack/recon-bot](https://github.com/ZeroHackOrg/zerohack-recon-bot) | `zh-recon` | Recon automation |
+| [@zerohack/log-analyzer](https://github.com/ZeroHackOrg/zerohack-log-analyzer) | `zh-log` | Log forensics |
+| [@zerohack/ctf-lab](https://github.com/ZeroHackOrg/zerohack-ctf-lab) | `zh-lab` | CTF lab runner |
+| [@zerohack/ctf-automation](https://github.com/ZeroHackOrg/zerohack-ctf-automation) | `zh-ctf` | CTF solver |
 ---
 
 ## Community
