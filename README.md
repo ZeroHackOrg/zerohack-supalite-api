@@ -42,15 +42,7 @@ Firebase or any cloud service.
 
 ## Quick Start
 
-```bash
-# Clone the monorepo
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools
-npm install
-npm run geek:api -- serve --seed 24
-```
-
-**Or standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-supalite-api.git
